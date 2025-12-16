@@ -10,4 +10,8 @@ The structure is the following (the tasks are also listed in the script of the l
 
 7.4 Subtask 3: Angular Dependence of Cosmic Rays: Auswertung_Aufgabe_3.ipynb
 
-Note: For the Subtask 2 (Detection of Muons with the Cherenkov Effect), additional codefiles are used to computationally compute the differences, whereas file 
+For the Subtask 2 (Detection of Muons with the Cherenkov Effect), additional codefiles are used to computationally compute the differences, whereas file "Compute_time_differences.py" can be used.
+
+If the codes is wished to be executed it may be necessary to adjust the pathnames. 
+
+The following libraries are used, and may need to be downloaded beforehand:
