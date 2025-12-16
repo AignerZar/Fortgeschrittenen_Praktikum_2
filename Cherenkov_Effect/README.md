@@ -4,7 +4,7 @@ The folder contains the necessary code for the data analysis.
 
 The structure is the following (the tasks are also listed in the script of the laboratory course):
 
-7.2 Subtask 1: Characterizing a PMT:
+7.2 Subtask 1: Characterizing a PMT: Aufgabe_1_Auswertung.ipynb
 
 7.3 Subtask 2: Detection of Muons with the Cherenkov Effect: 
 
