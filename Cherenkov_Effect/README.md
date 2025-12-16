@@ -14,4 +14,11 @@ For the Subtask 2 (Detection of Muons with the Cherenkov Effect), additional cod
 
 If the codes is wished to be executed it may be necessary to adjust the pathnames. 
 
-The following libraries are used, and may need to be downloaded beforehand:
+The following libraries are used, and may need to be downloaded beforehand (not all are necessary for this task, however the imported libraries are used in each experiment of the laboratory course):
+- Numpy
+- Matplotlib
+- Scipy
+- Pandas
+- Io
+- Os
+- Latex for plot discriptions
