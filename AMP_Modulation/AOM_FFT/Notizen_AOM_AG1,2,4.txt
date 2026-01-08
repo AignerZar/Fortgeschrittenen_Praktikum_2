@@ -1,0 +1,44 @@
+Problem war der Zeitintervall der FFT, dieser wurde von Ben Lanyon richtig eingestellt.
+
+AG1: 3 AM time traces with corresponding FFT spectra
+
+Modulation index, FFT Datei
+10%,01
+20%,02
+30%,03
+40%,04
+50%,05
+60%,06
+70%,07
+80%,08
+90%,09
+100%,10
+
+AG3: Prepare and record 10 FM FFT spectra with different modulation indexes.
+
+FM Freq: 50 kHz
+FreqDev[kHz], FFT Datei
+50,11 -> ja
+40,12 -> ja
+30,13
+20,14 -> ja
+10,15 -> ja
+5,16 -> ja
+4,17
+3,18
+2,19
+1,20
+100,21 -> ja
+200,22 -> ja
+300,23 -> ja
+400,24 -> ja
+500,25 -> ja
+600,26
+
+AG4: Prepare FM modulated signal with mod. index = 1 and very small mod. freq. (<100mHz)
+FMFreq=FreqDev [mHz], FFT Datei
+100,27
+50,28
+10,29
+150,30
+On the oscilloscope screen, i only see a single peak in these.
